@@ -7,5 +7,4 @@ pygments: true
 logo: false
 
 # Details for the RSS feed generator
-url:            'anuragramdasan.com'
 author:         'Anurag Ramdasan'
