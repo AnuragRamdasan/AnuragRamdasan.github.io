@@ -1,0 +1,11 @@
+name: Anurag Ramdasan
+description:
+meta_description: "on programming and all things code."
+
+markdown: redcarpet
+pygments: true
+logo: false
+
+# Details for the RSS feed generator
+url:            'anuragramdasan.com'
+author:         'Anurag Ramdasan'
