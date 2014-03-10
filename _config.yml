@@ -6,5 +6,8 @@ markdown: redcarpet
 pygments: true
 logo: false
 
+permalink: /weblog/:title
+
 # Details for the RSS feed generator
+url:            'anuragramdasan.com'
 author:         'Anurag Ramdasan'
