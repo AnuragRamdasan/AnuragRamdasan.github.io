@@ -4,25 +4,56 @@
 
 /*
 
-    0.  Includes
-    1.  Icons
-    2.  General
-    3.  Utilities
-    4.  General
-    5.  Single Post
-    6.  Third Party Elements
-    7.  Pagination
-    8.  Footer
-    9.  Media Queries (Tablet)
-    10. Media Queries (Mobile)
+0.  Includes
+1.  Icons
+2.  General
+3.  Utilities
+4.  General
+5.  Single Post
+6.  Third Party Elements
+7.  Pagination
+8.  Footer
+9.  Media Queries (Tablet)
+10. Media Queries (Mobile)
 
- */
+*/
 
 /* ==========================================================================
    0. Includes - Ground zero
    ========================================================================== */
 
 
+/* Add google web fonts here */
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Noto Serif'), local('NotoSerif'), url('../fonts/Noto-Serif/Noto-Serif.woff') format('woff');
+}
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Noto Serif Bold'), local('NotoSerif-Bold'), url('../fonts/Noto-Serif/Noto-Serif-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Noto Serif Italic'), local('NotoSerif-Italic'), url('../fonts/Noto-Serif/Noto-Serif-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url('../fonts/Open-Sans/Open-Sans.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url('../fonts/Open-Sans/Open-Sans-Bold.woff') format('woff');
+}
 
 /* ==========================================================================
    1. Icons - Sets up the icon font and respective classes
@@ -33,9 +64,9 @@
     font-family: 'icons';
     src:url('../fonts/icons.eot');
     src:url('../fonts/icons.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/icons.woff') format('woff'),
-        url('../fonts/icons.ttf') format('truetype'),
-        url('../fonts/icons.svg#icons') format('svg');
+    url('../fonts/icons.woff') format('woff'),
+    url('../fonts/icons.ttf') format('truetype'),
+    url('../fonts/icons.svg#icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -84,7 +115,7 @@
 html {
     height: 100%;
     max-height: 100%;
-    font-size: 45%;
+    font-size: 40%;
 }
 
 body {
@@ -274,8 +305,8 @@ kbd {
     background: #f4f4f4;
     border-radius: 4px;
     box-shadow:
-        0 1px 0 rgba(0, 0, 0, 0.2),
-        0 1px 0 0 #fff inset;
+    0 1px 0 rgba(0, 0, 0, 0.2),
+    0 1px 0 0 #fff inset;
 }
 
 table {
@@ -318,7 +349,7 @@ table tbody > tr:nth-child(odd) > th {
 
 table.plain tbody > tr:nth-child(odd) > td,
 table.plain tbody > tr:nth-child(odd) > th {
-   background: transparent;
+    background: transparent;
 }
 
 iframe, .fluid-width-video-wrapper {
@@ -327,7 +358,7 @@ iframe, .fluid-width-video-wrapper {
 }
 
 /* When a video is inside the fitvids wrapper, drop the
-margin on the iframe, cause it breaks stuff. */
+   margin on the iframe, cause it breaks stuff. */
 .fluid-width-video-wrapper iframe {
     margin: 0;
 }
