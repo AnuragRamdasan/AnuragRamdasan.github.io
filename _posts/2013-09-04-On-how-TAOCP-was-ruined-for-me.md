@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On how TAOCP was ruined for me"
+title: "on how TAOCP was ruined for me"
 date: 2013-09-04 20:52:00
 ---
 
