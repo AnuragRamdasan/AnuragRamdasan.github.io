@@ -9,7 +9,7 @@ logo: false
 permalink: /weblog/:title
 
 # Details for the RSS feed generator
-url:            'anuragramdasan.com'
+url:            'http://anuragramdasan.com'
 author:         'Anurag Ramdasan'
 
 sitemap: 
