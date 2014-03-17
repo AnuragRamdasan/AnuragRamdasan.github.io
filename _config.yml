@@ -11,7 +11,3 @@ permalink: /weblog/:title
 # Details for the RSS feed generator
 url:            'http://anuragramdasan.com'
 author:         'Anurag Ramdasan'
-
-sitemap: 
-    include_post: 
-        - "/archive.html"
