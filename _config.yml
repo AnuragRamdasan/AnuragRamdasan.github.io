@@ -12,6 +12,7 @@ permalink: /weblog/:title
 url:            'http://anuragramdasan.com'
 author:         'Anurag Ramdasan'
 
-sitemap: 
+sitemap:
+    file: "/sitemap.xml"
     include_post: 
         - "/archive.html"
