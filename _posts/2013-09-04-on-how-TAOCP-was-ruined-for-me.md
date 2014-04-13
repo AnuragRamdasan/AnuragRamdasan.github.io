@@ -13,7 +13,7 @@ For those who don't know about this book, it is often considered as a seminal wo
 Anyway, I decided to let Dr. Knuth know about this error and dropped an email. Dr. Knuth's website claims that any mail sent to him will be replied to within 6 months to 3 years. So I was pleasently surprised to recieve a response within a week. The contents of the response surprised me even more.
 
 
-*"I can't understand your letter at all! Page 53 of Volume 1 edition 3 has no formula even close to what you mention. On page 33 there is something similar five lines from the bottom but the formulas there*
+*"I can't understand your letter at all! Page 53 of Volume 1 edition 3 has no formula even close to what you mentioned. On page 33 there is something similar five lines from the bottom but the formulas there*
 >    [1 <= i <= n][1 <= j <= i]
 
 >    and
@@ -26,10 +26,10 @@ Anyway, I decided to let Dr. Knuth know about this error and dropped an email. D
 What? I didn't even read the rest of the mail and went straight to the book to confirm this. It was still there, right on page 53, exactly as I had mention. I was already prepared to reply with justification. I continued to read the rest of the  mail.
 
 
-*"Indian publishers have been messing around and printing strange ripoffs of my books for some time. Last year I earned about an appalling version of Concrete Mathematics in which they had ripped out many of the pages (including the preface and bibliography) and changed page numbers on individual pages but not in the index!"*
+*"Indian publishers have been messing around and printing strange ripoffs of my books for some time. Last year I learned about an appalling version of Concrete Mathematics in which they had ripped out many of the pages (including the preface and bibliography) and changed page numbers on individual pages but not in the index!"*
 
 
-This wasn't expected. Someone is selling messed up copies of a book online and no one has issues with it. Interestingly, the Indian Edition of *TAOCP* was published by *Dorling-Kindersley*, the same guys who published the above mentioned copies of *Concrete Mathematics*. *Dorling-Kindersley* are a subsidiary of PearsonEd, the original publishers of TAOCP. Last I heard from Dr Knuth, he had asked them to shred all the copies of that print of *Concrete Mathematics*. Whether they did it or not was unknown. At this point, the third volume hadn't yet been delivered. My first instinct was to cancel the order. After that, I contacted the retailer. Flipkart was quick to reply when I asked for the book to be returned, excerpt from their reply:
+This wasn't expected. Someone is selling messed up copies of a book online and no one has issues with it. Interestingly, the Indian Edition of *TAOCP* was published by *Dorling-Kindersley*, the same guys who published the above mentioned copies of *Concrete Mathematics*. *Dorling-Kindersley* is a subsidiary of PearsonEd, the original publishers of TAOCP. Last I heard from Dr Knuth, he had asked them to shred all the copies of that print of *Concrete Mathematics*. Whether they did it or not was unknown. At this point, the third volume hadn't yet been delivered. My first instinct was to cancel the order. After that, I contacted the retailer. Flipkart was quick to reply when I asked for the book to be returned, excerpt from their reply:
 
 
 *"We would like to inform you that the above book is a Reprint Edition. As per our records, we see that you have placed an order for the above book and the same has been delivered to you. Therefore, we will not be able to take this book back."*
