@@ -46,7 +46,7 @@ Well, they are only retailers. They can't be blamed for the book being a reprint
 
 So maybe Flipkart just 'said something' to get done with it? I do not care about them. But this whole incident had started to annoy me now. Books are my main source of learning new stuff and now I have to look out on every single page for errors, missing pages, wrong page numbers etc. Also I respect Dr Knuth for his work, and ill treatment of such fine works is annoying. Dr. Knuth doesn't own copyright to the content either, so all he can do is deliver the content and hope it is executed well.
 
-Anyway, at this point I decided to contact *PearsonEd*, the original publishers for the book. I though I would atleast point out the error so that they can rectify it in future prints. After locating the representatives I was able to get some of my questions answered. The reponses are separated here as they were sent out as separate mails.
+Anyway, at this point I decided to contact *PearsonEd*, the original publishers for the book. I thought I would at least point out the error so that they can rectify it in future prints. After locating the representatives I was able to get some of my questions answered. The reponses are separated here as they were sent out as separate emails.
 
 
 *"This book was reprinted in 2006 in India. By reprint I mean a straight copy of the original book which was published in the US except for a change in the cover. We do not change any content in the book in case of a reprint. Any content change will be done/undertaken by the US editorial during a revision or added to errata. This 3rd edition of this book was originally published in 1997 with no new edition is available, and I don't think there will be a new edition."*
