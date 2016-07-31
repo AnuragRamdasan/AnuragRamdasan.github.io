@@ -2,7 +2,6 @@ name: Anurag Ramdasan
 description:
 meta_description: "on programming and all things code."
 
-markdown: redcarpet
 pygments: true
 logo: false
 
